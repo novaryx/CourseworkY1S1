@@ -1,0 +1,6 @@
+﻿  CI411_Week8.cpp
+C:\Users\rr689\OneDrive - University of Brighton\RR689_Modules\CI411 Intro to Games Programming\Workshops\Week 8\CI411_Week8\Objects.h(11,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Objects.cpp
+C:\Users\rr689\OneDrive - University of Brighton\RR689_Modules\CI411 Intro to Games Programming\Workshops\Week 8\CI411_Week8\Objects.h(11,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  CI411_Week8.vcxproj -> C:\Users\rr689\OneDrive - University of Brighton\RR689_Modules\CI411 Intro to Games Programming\Workshops\Week 8\CI411_Week8\x64\Debug\CI411_Week8.exe
